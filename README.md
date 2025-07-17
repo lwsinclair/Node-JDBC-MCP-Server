@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/darksheep404-node-jdbc-mcp-server-badge.png)](https://mseep.ai/app/darksheep404-node-jdbc-mcp-server)
+
 # Node.js JDBC MCP Server
 
 这是一个基于Node.js的JDBC MCP服务器，支持MySQL、Oracle和SQLite数据库。
